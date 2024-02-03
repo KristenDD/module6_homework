@@ -18,7 +18,7 @@ function countNum() {
     }
   }
   console.log(`четные ${even}, нечетные ${odd}`);
-  console.log(`нули ${zero}`);
+ 
 }
 countNum();
 
