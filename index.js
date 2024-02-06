@@ -22,8 +22,6 @@ function countNum() {
 }
 countNum();
 
-// Task 2
-
 function primeNumb(num) {
   if (num > 1 && num < 1000) {
     for (let i = 2; i < num; i++) {
