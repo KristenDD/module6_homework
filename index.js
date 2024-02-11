@@ -1,9 +1,9 @@
 // Task 1
 
 let arr = [1, 3, 5, 7, 0, 10, 12, 0, 8, `text`, null, true];
-let even = 0;
-let odd = 0;
-let zero = 0;
+let even = 2;
+let odd = 3;
+let zero = 4;
 
 function countNum() {
   for (let num of arr) {
