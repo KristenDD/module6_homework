@@ -1,4 +1,4 @@
-// Task 1
+
 
 let arr = [1, 3, 5, 7, 0, 10, 12, 0, 8, `text`, null, true];
 let even = 2;
