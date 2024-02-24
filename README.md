@@ -1,1 +1,1 @@
-read me>fast boot
+read me>fast boot>mode1
