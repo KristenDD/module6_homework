@@ -1,8 +1,8 @@
 
 
 let arr = [1, 3, 5, 7, 0, 10, 12, 0, 8, `text`, null, true];
-let even = 2;
-let odd = 3;
+let even = 5;
+let odd = 6;
 let zero = 4;
 
 function countNum() {
