@@ -2,7 +2,7 @@
 
 let arr = [1, 3, 5, 7, 250, 10, 5, 0, 8, 9 `text`, null, true];
 let even = 5;
-let odd = 6;
+let num = 6;
 let zero = 4;
 
 function countNum() {
